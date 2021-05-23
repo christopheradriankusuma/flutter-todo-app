@@ -7,6 +7,7 @@ Features:
 * Edit an unfinished task
 * Unmark a finished task
 * Remove a finished task from list
+* Number of finished and unfinished tasks
 
 Screenshots:
 
@@ -14,4 +15,5 @@ Screenshots:
   <img src="screenshots/lock_screen.png" width="200">
   <img src="screenshots/main_screen.png" width="200">
   <img src="screenshots/editing.png" width="200">
+  <img src="screenshots/statistic.png" width="200">
 </p>
